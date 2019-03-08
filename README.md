@@ -12,4 +12,4 @@ This Project was specifically created for Udacity's Front End Developer-1 Nanode
 
 **Demo** :
 ![Image of Panda]
-(/Users/ishita/Documents/Projects/Animal Trading Card/Screenshot 2019-03-08 at 10.17.46 PM.png)
+(file:///Users/ishita/Documents/Projects/Animal%20Trading%20Card/cards.html)
